@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
+  "title": "Theatre",
   "siteUrl": "https://helloiamoliver.co.uk/theatre/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "Oliver's record of trips to the Theatre.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Oliver's Theatre Logbook",
+    "description": "This is a record of Oliver's trips to the Theatre, along with images and notes from various different performances!"
   }
 }
