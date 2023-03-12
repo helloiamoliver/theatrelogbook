@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /christmas-carol
-date: 2022-12-11
+date: 2022-12-21
 title: A Christmas Carol
 thumbnail: '/theatre/assets/misc/ChristmasCarol.png'
 metaDescription: A one-man performane of A Christmas Carol.
