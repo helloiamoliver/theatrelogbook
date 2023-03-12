@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /heathers
-date: 2023-03-11
+date: 2022-07-12
 title: Heathers
 thumbnail: '/theatre/assets/heathers/heathers2.jpg'
 metaDescription: The cult musical of Heathers.
