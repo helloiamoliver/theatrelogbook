@@ -9,8 +9,9 @@ metaDescription: A play based on the novel by Neil Gaiman.
 
 | **Name**   | The Ocean at the End of the Lane                      |
 |------------|-------------------------------------------------------|
-| **Writer** | Neil Gaiman (novel), Joel Horwood (adapted for stage) |
-| **Lights** | Paule Constable                                       |
+| **Theatre**|      The Theatre Royal, Bath                          |
+| **Writer** |      Neil Gaiman (novel), Joel Horwood (adapted for stage)|
+| **Lights** |      Paule Constable                                  |
 
 The Ocean at the End of the Lane is a play based on the novel by Neil Gaiman. 
 It was produced by the same team as War Horse, and The Curious Incident of the Dog in the Night-Time.
