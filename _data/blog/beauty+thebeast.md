@@ -7,11 +7,9 @@ thumbnail: '/theatre/assets/beauty+thebeast/featured.png'
 metaDescription: A play based on the novel by Neil Gaiman.
 ---
 
-| **Name**   | The Ocean at the End of the Lane                      |
+| **Name**   | The Tale of the Beauty and the Tail of the Beast      |
 |------------|-------------------------------------------------------|
-| **Theatre**|      The Theatre Royal, Bath                          |
-| **Writer** |      Neil Gaiman (novel), Joel Horwood (adapted for stage)|
-| **Lights** |      Paule Constable                                  |
+| **Company**|      Creation Theatre                                 |
 
 The Creation Theatre pantomime for 2022.   
 
