@@ -3,7 +3,7 @@ template: BlogPost
 path: /heathers
 date: 2022-07-12
 title: Heathers
-thumbnail: '/theatre/assets/heathers/heathers2.jpg'
+thumbnail: '/theatre/assets/heathers/clipboard.png'
 metaDescription: The cult musical of Heathers.
 ---
 
