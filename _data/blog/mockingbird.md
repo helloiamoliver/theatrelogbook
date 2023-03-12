@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /mockingbird
-date: 2023-03-11
+date: 2022-06-01
 title: To Kill a Mockingbird
 thumbnail: '/theatre/assets/misc/mockingbird2.jpg'
 metaDescription: A play based on the novel by Harper Lee.
