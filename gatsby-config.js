@@ -45,13 +45,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Delog GatbsyJS Starter`,
-        short_name: `Delog`,
+        name: `Oliver's Theatre Log`,
+        short_name: `Theatre`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#381696`,
+        theme_color: `#BF211E`,
         display: `standalone`,
-        icon: "src/images/icon.png",
+        icon: "src/images/favicon.png",
       },
     },
     `gatsby-plugin-sass`, 
