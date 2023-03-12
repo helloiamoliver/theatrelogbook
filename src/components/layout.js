@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} Oliver &bull; All images are the original copyright holders. </a></p>
+        <p>&copy; {new Date().getFullYear()} Oliver &bull; All images are the original copyright holders.</p>
       </footer>
     </div>
   )
