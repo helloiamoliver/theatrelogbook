@@ -3,7 +3,7 @@ template: BlogPost
 path: /beauty-and-the-beast
 date: 2022-12-17
 title: The Tale of the Beauty and the Tail of the Beast
-thumbnail: '/theatre/assets/beauty+thebeast/BeautyBeast_Featured.jpg'
+thumbnail: '/theatre/assets/beauty+thebeast/featured.png'
 metaDescription: A play based on the novel by Neil Gaiman.
 ---
 
