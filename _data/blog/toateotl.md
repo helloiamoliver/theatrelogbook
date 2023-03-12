@@ -7,17 +7,11 @@ thumbnail: '/theatre/assets/TOATEOTL/TOATEOTL2.jpg'
 metaDescription: A play based on the novel by Neil Gaiman.
 ---
 
-| **Name**   | The Ocean at the End of the Lane                      |
-|------------|-------------------------------------------------------|
+**Name**         The Ocean at the End of the Lane
+**Theatre**      The Theatre Royal, Bath
+**Writer**       Neil Gaiman (novel), Joel Horwood (adapted for stage)
+**Lights**       Paule Constable
 
-| **Theatre**| The Theatre Royal, Bath                               |
-|------------|-------------------------------------------------------|
-
-| **Writer** | Neil Gaiman (novel), Joel Horwood (adapted for stage) |
-|------------|-------------------------------------------------------|
-
-| **Lights** |      Paule Constable                                  |
-|------------|-------------------------------------------------------|
 
 
 The Ocean at the End of the Lane is a play based on the novel by Neil Gaiman. 
