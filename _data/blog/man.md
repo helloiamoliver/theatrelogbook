@@ -3,7 +3,7 @@ template: BlogPost
 path: /toomuch
 date: 2023-03-11
 title: The Man Who Thought He Knew Too Much
-thumbnail: '/theatre/assets/misc/toomuch1.jpg'
+thumbnail: '/theatre/assets/misc/theman0.jpg'
 metaDescription: From the Volez Collective
 ---
 
@@ -17,3 +17,6 @@ It was incredible to watch, and the use of physical theatre to creat effect was 
 The lights were versatile, but exciting.
 
 All in all, it was amazing!
+
+
+![Picture 1](/theatre/assets/misc/theman1.jpg)
