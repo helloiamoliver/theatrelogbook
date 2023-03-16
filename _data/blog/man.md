@@ -1,17 +1,17 @@
 ---
 template: BlogPost
 path: /toomuch
-date: 2023-03-11
+date: 2023-03-16
 title: The Man Who Thought He Knew Too Much
 thumbnail: '/theatre/assets/misc/theman0.jpg'
-metaDescription: From the Volez Collective
+metaDescription: From the Voloz Collective
 ---
 
 **Theatre**      Kingswood Theatre  
 
 
 
-As part of the 275 Celebrations, the Volez theatre company came to school and gave a performance of The Man Who Thought He Knew Too Much.
+As part of the 275 Celebrations, the Voloz Collective came to school and gave a performance of The Man Who Thought He Knew Too Much.
 It was incredible to watch, and the use of physical theatre to creat effect was gripping.
 
 The lights were versatile, but exciting.
