@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /waldo
-date: 2023-03-16
+date: 2023-04-01
 title: Waldo’s Circus of Magic & Terror
 thumbnail: '/theatre/assets/waldo/waldo2.jpeg'
 metaDescription: From the Voloz Collective
