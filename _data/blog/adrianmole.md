@@ -1,20 +1,15 @@
 ---
 template: BlogPost
-path: /beauty-and-the-beast
-date: 2022-12-17
-title: The Tale of the Beauty and the Tail of the Beast
-thumbnail: '/theatre/assets/beauty+thebeast/featured.png'
-metaDescription: A play based on the novel by Neil Gaiman.
+path: /adrian-mole
+date: 2023-03-25
+title: The Secret Diary of Adrian Mole Aged 13¾ by Sue Townsend
+thumbnail: '/theatre/assets/misc/adrianmole1.png'
 ---
 
-| **Name**   | The Tale of the Beauty and the Tail of the Beast      |
-|------------|-------------------------------------------------------|
-| **Company**|      Creation Theatre                                 |
+An amatuer production of Adrian Mole.
+A friend (EB) was acting in it, hence why I went to see it.
 
-The Creation Theatre pantomime for 2022.   
-
-
-*“Tales of wonders, fairies and blunders, tales of flowers, castles and towers, tales of the beauty and the beast.”*
+It was OK - they could easily have knocked 30 minutes off, but it was fine.
 
 
 ![Picture 1](/theatre/assets/beauty+thebeast/BeautyBeast_Show1.jpg)
