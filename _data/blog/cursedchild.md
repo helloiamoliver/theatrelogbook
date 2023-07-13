@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /cursed-child
-date: 2022-12-21
+date: 2023-07-13
 title: Harry Potter and the Cursed Child - Parts 1 & 2
 thumbnail: '/theatre/assets/harrypotter/hp1.png'
 ---
